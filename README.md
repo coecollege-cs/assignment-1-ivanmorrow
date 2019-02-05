@@ -1,2 +1,3 @@
-# First Assignment
-Put the assignmet with the sizeof in gitHub using git
+What would you like the program to do?
+
+What should the output be?
